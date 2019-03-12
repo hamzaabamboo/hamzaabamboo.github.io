@@ -7,8 +7,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
-    "deploy": "yarn build && mv dist/* .",
-    "gh-pages": "gh-pages -d dist"
+    "deploy": "yarn build && yarn run remove && mv dist/* .",
+    "remove": "rm -rf css img js && rm favicon.ico index.html manifest.json precache-manifest.* robots.txt service-worker.js"
   },
   "dependencies": {
     "register-service-worker": "^1.6.2",
