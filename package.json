@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "intersection-observer": "^0.11.0",
+    "normalize.css": "^8.0.1",
     "register-service-worker": "^1.7.1",
     "vue": "^3.0.0-0",
-    "vue-class-component": "^8.0.0-0",
+    "vue-intersect": "^1.1.6",
     "vue-router": "^4.0.0-0",
+    "vue-scrollama": "^1.1.9",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
