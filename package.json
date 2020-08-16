@@ -13,11 +13,12 @@
     "intersection-observer": "^0.11.0",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.7.1",
-    "vue": "^3.0.0-0",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.5",
     "vue-intersect": "^1.1.6",
-    "vue-router": "^4.0.0-0",
-    "vue-scrollama": "^1.1.9",
-    "vuex": "^4.0.0-0"
+    "vue-property-decorator": "^8.4.2",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.19",
@@ -42,6 +43,7 @@
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
     "typescript": "~3.9.3",
-    "vue-jest": "^5.0.0-0"
+    "vue-jest": "^5.0.0-0",
+    "vue-template-compiler": "^2.6.11"
   }
 }
