@@ -1,0 +1,19 @@
+{
+  "Overlay": {
+    "title": "HAMZAABAMBOO",
+    "subtitle": "FULLSTACK DEVELOPER & DIGITAL CREATOR",
+    "scrollHint": "↓ SCROLL TO INITIALIZE ↓",
+    "featured": "Featured Works",
+    "deployed": "Deployed Artifacts",
+    "libs": "Source Codes / Libraries",
+    "launch": "Launch System",
+    "footer": "End of Line // hamzaabamboo 2026",
+    "noDescription": "No description provided."
+  },
+  "Project": {
+    "back": "Back to Orbit",
+    "viewSource": "View Source",
+    "visitSite": "Visit Deployment",
+    "languages": "Tech Stack"
+  }
+}

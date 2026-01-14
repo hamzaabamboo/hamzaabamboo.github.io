@@ -1,0 +1,777 @@
+[
+  {
+    "description": "Puyo-puyo-ish game inspired from BanG Dream! Girls Band Party!☆PICO ～ OHMORI ～ Episode 9.",
+    "homepageUrl": "https://hamzaabamboo.github.io/pazuru-pico",
+    "languages": [
+      {
+        "size": 41938,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 1387,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 1133,
+        "node": {
+          "name": "SCSS"
+        }
+      }
+    ],
+    "name": "pazuru-pico",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/a618c6314763f1a4ed6d9a93cdea350c67a793d4415dcd83c482e066d8dffc2e/hamzaabamboo/pazuru-pico",
+    "stargazerCount": 71,
+    "url": "https://github.com/hamzaabamboo/pazuru-pico",
+    "screenshotPath": "/screenshots/pazuru_pico.png"
+  },
+  {
+    "description": "Over-Engineered personal bot. Build with maximum scalability, development speed and integration between all possible platforms in mind.",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 1559,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 203,
+        "node": {
+          "name": "Shell"
+        }
+      },
+      {
+        "size": 230737,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 2760839,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "hambot",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/ba97e3dc26f53bff17508914af432bf7840b12ae7763b9d100ebdf83d74cd90a/hamzaabamboo/hambot",
+    "stargazerCount": 11,
+    "url": "https://github.com/hamzaabamboo/hambot",
+    "screenshotPath": null
+  },
+  {
+    "description": "super simple video clipping tool",
+    "homepageUrl": "https://video-clipper-coral.vercel.app",
+    "languages": [
+      {
+        "size": 1348,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 2544093,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 79820,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 257997,
+        "node": {
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "name": "video-clipper",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/ed1de77974dc62368fabd71e9f4bbf74d0f29b2e8486c9aa6a34b38b79ca4927/hamzaabamboo/video-clipper",
+    "stargazerCount": 3,
+    "url": "https://github.com/hamzaabamboo/video-clipper",
+    "screenshotPath": "/screenshots/video_clipper.png"
+  },
+  {
+    "description": "Your companion for learning japanese",
+    "homepageUrl": "https://aibou.ham-san.net/",
+    "languages": [
+      {
+        "size": 1173,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 214793,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "aibou",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/328eb6fed2cc9eb08d61d81fcb37fb7c13e7f6d7e1d064468160ab187a62b071/hamzaabamboo/aibou",
+    "stargazerCount": 3,
+    "url": "https://github.com/hamzaabamboo/aibou",
+    "screenshotPath": "/screenshots/aibou.png"
+  },
+  {
+    "description": "Ambitious project to provide better productivity with PWA and GraphQL",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 652,
+        "node": {
+          "name": "Shell"
+        }
+      },
+      {
+        "size": 626,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 1828,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 98371,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 595,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 16503,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "workspace",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/fa171ed0cfb73832dbc3507aba9a2b734f7398484c87998871e75b0b2c72ec92/hamzaabamboo/workspace",
+    "stargazerCount": 3,
+    "url": "https://github.com/hamzaabamboo/workspace",
+    "screenshotPath": null
+  },
+  {
+    "description": "Visualize seiyuus (voice actors) !!",
+    "homepageUrl": "https://hamzaabamboo.github.io/seiyuu-navigator/",
+    "languages": [
+      {
+        "size": 2287,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 1273,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 33098,
+        "node": {
+          "name": "Vue"
+        }
+      },
+      {
+        "size": 18678,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "seiyuu-navigator",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/f70f93df2006ee244121b99bfe058ce58a9469e6732277ec75c2129e4625f9e4/hamzaabamboo/seiyuu-navigator",
+    "stargazerCount": 2,
+    "url": "https://github.com/hamzaabamboo/seiyuu-navigator",
+    "screenshotPath": "/screenshots/seiyuu_navigator.png"
+  },
+  {
+    "description": "Brand new homepage ! (v4 in the work)",
+    "homepageUrl": "https://ham-san.net",
+    "languages": [
+      {
+        "size": 300,
+        "node": {
+          "name": "Shell"
+        }
+      },
+      {
+        "size": 1692,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 474392,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 10313,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 146,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 343,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 65516,
+        "node": {
+          "name": "Svelte"
+        }
+      },
+      {
+        "size": 130872,
+        "node": {
+          "name": "HLSL"
+        }
+      },
+      {
+        "size": 41237,
+        "node": {
+          "name": "Astro"
+        }
+      }
+    ],
+    "name": "ham-san.net",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/9b03cd1d957aea3edd319b1d7fb8c6d48eeaedee24c85737fe54711afee9cf38/hamzaabamboo/ham-san.net",
+    "stargazerCount": 1,
+    "url": "https://github.com/hamzaabamboo/ham-san.net",
+    "screenshotPath": "/screenshots/ham_san_net.png"
+  },
+  {
+    "description": "Magic web powered by muni magic for viewing D4DJ events data",
+    "homepageUrl": "https://hamzaabamboo.github.io/muni-web",
+    "languages": [
+      {
+        "size": 160415,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 791,
+        "node": {
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "name": "muni-web",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/b9b53f49bce543284c81be16c10c9e6d71918c7dce560fe53f431ded9e021f95/hamzaabamboo/muni-web",
+    "stargazerCount": 1,
+    "url": "https://github.com/hamzaabamboo/muni-web",
+    "screenshotPath": "/screenshots/muni_web.png"
+  },
+  {
+    "description": "Timetable generator created by Timetable.js and Angular 2",
+    "homepageUrl": "https://ice-timetable.firebaseapp.com/home",
+    "languages": [
+      {
+        "size": 8917,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 22292,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 6881,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 2692,
+        "node": {
+          "name": "HTML"
+        }
+      }
+    ],
+    "name": "ice-timetable-angular",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/ebf72f0041e310d334b90b3b696ed139b30126c981b42e2462593c4ae7761e1c/hamzaabamboo/ice-timetable-angular",
+    "stargazerCount": 1,
+    "url": "https://github.com/hamzaabamboo/ice-timetable-angular",
+    "screenshotPath": "/screenshots/ice_timetable_angular.png"
+  },
+  {
+    "description": "Another Productivity Tools, but just for me (Heavily vibe coded)",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 815,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 2059,
+        "node": {
+          "name": "Makefile"
+        }
+      },
+      {
+        "size": 1568667,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 11845,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 48,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 8877,
+        "node": {
+          "name": "Kotlin"
+        }
+      },
+      {
+        "size": 526,
+        "node": {
+          "name": "Shell"
+        }
+      }
+    ],
+    "name": "flow",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/7ee4ae2d20f23df8a6dd2e637595ff688be27fad7af20df1e0a23c1d773840b8/hamzaabamboo/flow",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/flow",
+    "screenshotPath": null
+  },
+  {
+    "description": "part of the stupid hackathon Thailand 4",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 20516,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 2272,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 42916,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 1883880,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 306,
+        "node": {
+          "name": "Python"
+        }
+      },
+      {
+        "size": 1341,
+        "node": {
+          "name": "SCSS"
+        }
+      }
+    ],
+    "name": "covid-trainer",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/8f9a41720f76740b48a9693c3511f23e2dac65c300ec5f5a15484433c65bfe9c/hamzaabamboo/covid-trainer",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/covid-trainer",
+    "screenshotPath": null
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 257,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 53615,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 6110,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "kanji-tracker",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/5602d7be5aff0b09627a8a581ec563014f4404b97df21e27709ef9678bcbc89a/hamzaabamboo/kanji-tracker",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/kanji-tracker",
+    "screenshotPath": null
+  },
+  {
+    "description": "",
+    "homepageUrl": "https://hamzaabamboo.github.io/onpu-explorer",
+    "languages": [
+      {
+        "size": 257,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 25833,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 6110,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "onpu-explorer",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/792023a28fef99d508ae2999d29c72b1767221ff3b058e942d7b922475217b8d/hamzaabamboo/onpu-explorer",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/onpu-explorer",
+    "screenshotPath": "/screenshots/onpu_explorer.png"
+  },
+  {
+    "description": "Easily export data from excel database into any format, some use cases are incase you need to send data to Line in some specific format",
+    "homepageUrl": "https://hamzaabamboo.github.io/easy-reg/",
+    "languages": [
+      {
+        "size": 1707,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 603,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 12980,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "easy-reg",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/e5ca1bf3980a0e688639dd25a5f66056fefc2b6189a58a263df1adaee47d4076/hamzaabamboo/easy-reg",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/easy-reg",
+    "screenshotPath": "/screenshots/easy_reg.png"
+  },
+  {
+    "description": "easy money sharing calculator using new web apis.",
+    "homepageUrl": "https://r-divide.now.sh/",
+    "languages": [
+      {
+        "size": 833,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 1917,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 80374,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "r-divide",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/f5f065586492453bd60d56bcbea758863e71dc787b2b1436fd2c8f9ba973bc69/hamzaabamboo/r-divide",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/r-divide",
+    "screenshotPath": "/screenshots/r_divide.png"
+  },
+  {
+    "description": "Parking calculator for D4DJ",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 2661,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 519,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 15039,
+        "node": {
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "name": "d4djparkingcalculator",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/9b3a390dc332e3b849833de75dfb759771f6584f935eb5155e84b86d0b436e78/hamzaabamboo/d4djparkingcalculator",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/d4djparkingcalculator",
+    "screenshotPath": null
+  },
+  {
+    "description": "Create RGB animations with launchkey keyboard, Control the animation with faders and knows on the keyboard",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 6937,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "launchkey-lightshow",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/9613ae4a9869c248d43894d7dbec2b8014e496e4592c64dd4002cf2361c8f6d2/hamzaabamboo/launchkey-lightshow",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/launchkey-lightshow",
+    "screenshotPath": null
+  },
+  {
+    "description": "Collection of React hooks that I created and used across multiple projects",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 3541,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "awesome-hooks",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/acd8f2cbbfbfa01989b556db71b76593310a95f389e8573533cc22d76a5f269e/hamzaabamboo/awesome-hooks",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/awesome-hooks",
+    "screenshotPath": null
+  },
+  {
+    "description": "",
+    "homepageUrl": "https://open-reg-frontend.open-reg.now.sh",
+    "languages": [
+      {
+        "size": 7750,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 19951,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 48452,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 1839,
+        "node": {
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "name": "open-reg-frontend",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/54a89c1dc48c6f5190cedfe9ef04c1a14c7b5f37d135c00dc02c6f1b4113ec02/hamzaabamboo/open-reg-frontend",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/open-reg-frontend",
+    "screenshotPath": "/screenshots/open_reg_frontend.png"
+  },
+  {
+    "description": "Facebook Care Reaction Customizer ",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 5919,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 6864,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 3759,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "care-reaction-customizer",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/169471c9587656ee7c58c84328bd6c368a6c20b6565d00fa1113a0fec46faad9/hamzaabamboo/care-reaction-customizer",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/care-reaction-customizer",
+    "screenshotPath": null
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 475,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 226,
+        "node": {
+          "name": "Shell"
+        }
+      },
+      {
+        "size": 78481,
+        "node": {
+          "name": "TypeScript"
+        }
+      }
+    ],
+    "name": "open-reg-backend",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/babd7498c9716cf679fa443749dc803ac5f4570bffbec98bbd5c655451bed5b4/hamzaabamboo/open-reg-backend",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/open-reg-backend",
+    "screenshotPath": null
+  },
+  {
+    "description": "Chayen Clone with ng, socket, pg and more... (Dunno why tho)",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 430,
+        "node": {
+          "name": "Dockerfile"
+        }
+      },
+      {
+        "size": 2818,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 66056,
+        "node": {
+          "name": "TypeScript"
+        }
+      },
+      {
+        "size": 1446,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 2121,
+        "node": {
+          "name": "CSS"
+        }
+      },
+      {
+        "size": 289,
+        "node": {
+          "name": "Shell"
+        }
+      }
+    ],
+    "name": "chayen-clone",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/0fbf202970817598bf280e2f8ab70398b285e0c83bcce1f93b6cf1a69a06ee7e/hamzaabamboo/chayen-clone",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/chayen-clone",
+    "screenshotPath": null
+  },
+  {
+    "description": "Helps you with chords problem",
+    "homepageUrl": "",
+    "languages": [
+      {
+        "size": 1545,
+        "node": {
+          "name": "HTML"
+        }
+      },
+      {
+        "size": 34352,
+        "node": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "size": 3817,
+        "node": {
+          "name": "CSS"
+        }
+      }
+    ],
+    "name": "chord-helper",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/e97e4b4a8ffa6f9b9ff1af1cb09d838d97e09c45047e62c609b76910a0a73d97/hamzaabamboo/chord-helper",
+    "stargazerCount": 0,
+    "url": "https://github.com/hamzaabamboo/chord-helper",
+    "screenshotPath": null
+  }
+]

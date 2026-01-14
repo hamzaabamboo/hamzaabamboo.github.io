@@ -1,0 +1,19 @@
+{
+  "Overlay": {
+    "title": "HAMZAABAMBOO",
+    "subtitle": "フルスタック開発者 & デジタルクリエイター",
+    "scrollHint": "↓ スクロールして初期化 ↓",
+    "featured": "特集作品",
+    "deployed": "デプロイ済みアーティファクト",
+    "libs": "ソースコード / ライブラリ",
+    "launch": "システム起動",
+    "footer": "通信終了 // hamzaabamboo 2026",
+    "noDescription": "説明はありません。"
+  },
+  "Project": {
+    "back": "軌道に戻る",
+    "viewSource": "ソースを見る",
+    "visitSite": "デプロイを見る",
+    "languages": "技術スタック"
+  }
+}
